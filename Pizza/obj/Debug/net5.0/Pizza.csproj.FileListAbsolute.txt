@@ -1,0 +1,16 @@
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\Pizza.exe
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\Pizza.deps.json
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\Pizza.runtimeconfig.json
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\Pizza.runtimeconfig.dev.json
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\Pizza.dll
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\ref\Pizza.dll
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\bin\Debug\net5.0\Pizza.pdb
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.csproj.AssemblyReference.cache
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.AssemblyInfoInputs.cache
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.AssemblyInfo.cs
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.dll
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\ref\Pizza.dll
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.pdb
+C:\Users\Mikolaj\source\repos\Pizza\Pizza\Pizza\obj\Debug\net5.0\Pizza.genruntimeconfig.cache
